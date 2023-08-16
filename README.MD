@@ -1,0 +1,1 @@
+Simple Quotes project with only Javascript and Tailwind CSS Framework.!!!
