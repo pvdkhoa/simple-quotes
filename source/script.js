@@ -17,7 +17,7 @@ const quotes = [
 
   ];
   
-function generateRandomQuote() {
+const generateRandomQuote = function() {
     const randomIndex = Math.floor(Math.random() * quotes.length);
     document.getElementById("quote").textContent = quotes[randomIndex];
 }
