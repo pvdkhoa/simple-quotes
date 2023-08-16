@@ -1,1 +1,1 @@
-Simple Quotes project with only Javascript and Tailwind CSS Framework.!!!
+Generate Simple Quotes project with only Javascript and Tailwind CSS Framework.!!!
